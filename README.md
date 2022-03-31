@@ -2,6 +2,10 @@
 
 A front-end web application to search and know the details of thousands of books.
 
+The Opening page.
+
+![App Screenshot](./src/Components/images/ProjectIntro.png)
+
 ## Features
 
 - Light/dark mode toggle.
@@ -38,6 +42,7 @@ Follow these steps to run the Search Books Application on your local system.
 
 This would spin up the development server on https://localhost:3000. Now you can enjoy the application! I hope you like it!
 
-## Screenshots
+## Screenshot of the Search Page.
 
-![App Screenshot](./src/Components/images/ProjectIntro.png)
+The search preview in dark mode.
+![App Screenshot](./src/Components/Search.png)

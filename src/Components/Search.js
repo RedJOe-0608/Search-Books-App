@@ -26,7 +26,7 @@ const Search = ({ bookName, onChange, onClick }) => {
         variant="filled"
         required
         className={classes.searchField}
-        label="Enter the Book name"
+        label="Enter the Book name (And the author name for more accurate results)"
         value={bookName}
         onChange={onChange}
         InputProps={{

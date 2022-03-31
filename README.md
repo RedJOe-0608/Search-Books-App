@@ -45,4 +45,5 @@ This would spin up the development server on https://localhost:3000. Now you can
 ## Screenshot of the Search Page.
 
 The search preview in dark mode.
-![App Screenshot](./src/Components/Search.png)
+
+![App Screenshot](./src/Components/images/Search.png)

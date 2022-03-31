@@ -33,11 +33,11 @@ Follow these steps to run the Search Books Application on your local system.
 5. That's it! Now you are all set to run the application! In the terminal, type :
 
 ```bash
-
+    npm start
 ```
 
 This would spin up the development server on https://localhost:3000. Now you can enjoy the application! I hope you like it!
 
 ## Screenshots
 
-![App Screenshot]('/src/images/ProjectIntro.png')
+![App Screenshot]('/src/components/images/ProjectIntro.png')

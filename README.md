@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Search Books.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A front-end web application to search and know the details of thousands of books.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Light/dark mode toggle.
+- You can search with the name of the book, and that will fetch and display the top 16 results as provided from the Google Books API and the Open Library API.
+- Each search result is a book card. Each book card would contain the name of the book, the cover of the book, the author/authors, the language, a brief description, name of the publisher, page count and rating.
+- Upon clicking on the book cover, it redirects the user to the Google Play Books where they can choose to take further action (i.e., to purchase or to read the preview or to read the free E-book, if available).
+- Users can also search from a list of 31 different categories (Cooking, Self-Help, Anthropology, Romance to name some). If they happen to use this feature, they will be redirected to the Open Library page of the respective book, where again they can choose to take further action.
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Follow these steps to run the Search Books Application on your local system.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. After cloning it from GitHub, open the terminal in the root directory.
+2. You need to make sure that you have node.js installed. If you don't have it installed, then you can download it from this link :https://nodejs.org/en/ and then install it.
+3. Then, you need to install all the neccessary packages/dependencies. For that, run :
 
-### `npm test`
+```bash
+  npm install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
 
-### `npm run build`
+4. Since the Search Books App makes use of the JSON server, which is a kind of a fake back-end, you need to run another command :
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```bash
+   npm run server
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. That's it! Now you are all set to run the application! In the terminal, type :
 
-### `npm run eject`
+```bash
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This would spin up the development server on https://localhost:3000. Now you can enjoy the application! I hope you like it!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Screenshots
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![App Screenshot]('/src/images/ProjectIntro.png')

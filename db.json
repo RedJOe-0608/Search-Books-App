@@ -1,0 +1,207 @@
+{
+  "menuItems" :[
+   
+    {
+     "text": "Home",
+     "icon": "<ArrowForwardIosIcon color='secondary' />",
+     "path": "/"
+   },
+    {
+      "text": "Search",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Search"
+    },
+  
+       {
+         "type": "category",
+      "text": "Arts",
+      "path": "undefined"
+    },
+    {
+     "text": "Architecture",
+     "icon": "<ArrowForwardIosIcon color='secondary' />",
+     "path": "/Architecture"
+   },
+     {
+      "text": "Art History",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Art_History"
+    },
+       {
+      "text": "Fashion",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Fashion"
+    },
+       {
+      "text": "Film",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Film"
+    },
+          {
+      "text": "Music Theory",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Music_Theory"
+    },
+          {
+      "text": "Photography",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Photography"
+    },
+        {
+         "type": "category",
+      "text": "Fiction",
+      "path": "undefined"
+    },
+       {
+      "text": "Fantasy",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Fantasy"
+    },
+      {
+      "text": "Historical Fiction",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Historical_Fiction"
+    },
+      {
+      "text": "Horror",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Horror"
+    },
+     {
+      "text": "Humour",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Humour"
+    },
+    {
+      "text": "Literature",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Literature"
+    },
+      {
+      "text": "Mystery",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Mystery"
+    },
+       {
+      "text": "Plays",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Plays"
+    },
+     {
+      "text": "Poetry",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Poetry"
+    },
+     {
+      "text": "Romance",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Romance"
+    },
+     {
+      "text": "Science Fiction",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Science_fiction"
+    },
+       {
+      "text": "Short Stories",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Short_Stories"
+    },
+     {
+      "text": "Thriller",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Thriller"
+    },
+     {
+      "text": "Young Adult",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Young_adult"
+    },
+        {
+         "type": "category",
+      "text": "Buisness & Finance",
+      "path": "undefined"
+    },
+    {
+     "text": "Business Economics",
+     "icon": "<ArrowForwardIosIcon color='secondary' />",
+     "path": "/Business_Economics"
+   },
+     {
+      "text": "Entrepreneurship",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Entrepreneurship"
+    },
+  
+        {
+         "type": "category",
+      "text": "Health & Wellness",
+      "path": "undefined"
+    },
+    
+     {
+      "text": "Cooking",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Cooking"
+    },
+     {
+      "text": "Mental Health",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Mental_health"
+    },
+        {
+      "text": "Self-Help",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/SelfHelp"
+    },
+
+         {
+         "type": "category",
+      "text": "Children's",
+      "path": "undefined"
+    },
+    {
+          "text": "Baby Books",
+         
+          "path": "/Baby_Books"
+        },
+        {
+          "text": "Picture Books",
+         
+          "path": "/Picture_Books"
+        },
+ {
+      "text": "Stories in Rhyme",
+     
+      "path": "/Stories_in_rhyme"
+    },
+  
+    {
+         "type": "category",
+      "text": "Social Sciences",
+      "path": "undefined"
+    },
+    {
+      "text": "Anthropology",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Anthropology"
+    },
+    {
+      "text": "Political Science",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Political_Science"
+    },
+    {
+      "text": "Psychology",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Psychology"
+    },
+    {
+      "text": "Religion",
+      "icon": "<ArrowForwardIosIcon color='secondary' />",
+      "path": "/Religion"
+    }
+    
+   
+  ]
+}

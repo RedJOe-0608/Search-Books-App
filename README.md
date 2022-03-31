@@ -47,3 +47,5 @@ This would spin up the development server on https://localhost:3000. Now you can
 The search preview in dark mode.
 
 ![App Screenshot](./src/Components/images/Search.png)
+
+In case of any querry, please drop a mail at joeswaroopmakena@gmail.com and I would reach out to you!

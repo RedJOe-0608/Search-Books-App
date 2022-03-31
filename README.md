@@ -40,4 +40,4 @@ This would spin up the development server on https://localhost:3000. Now you can
 
 ## Screenshots
 
-![App Screenshot]('src/components/images/ProjectIntro.png')
+![App Screenshot]('src/Components/images/ProjectIntro.png')
